@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Chess Board: Naturescapes",
+  "orientation": "landscape",
+  "scope": "/",
+  "short_name": "Chess Board: Naturescapes",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Experience a natural vibe chess board game in which you experience many themes and backgrounds and smooth chess experience with bot and friend mode \nChess Board: Naturescapes main motive is connects you with nature",
+  "id": "/chess-game/",
+  "lang": "en",
+  "categories": [
+    "games"
+  ]
+}
